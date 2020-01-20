@@ -1,7 +1,7 @@
 <?php
 $x=8;
 $y=20;
-switch($a){
+switch($x){
     case 28:
         echo "sum is".($x+$y);
     break;
